@@ -13,7 +13,7 @@ Rate of fatal attacks by location
 % of attacks by activity
 % fatality by shark species
 
-▶Status Project: 
+▶Status Project: to be completed
 
 ▶Conclusion: The conclusion is that although shark attacks have doubled in the past 2 decades, the fatality rate remains with a normal fluctutation. The doubling of attacks has, according to scientists, to do with global warming. Warming oceans  are destroying marine ecosystems and forcing marine creatures to dramatically adapt to the changing environment.
 
