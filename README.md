@@ -1,6 +1,6 @@
 [Project Description](https://)
 
-▶ The project’s initial question is to find out what are the metrics that correlate with the fatality rate. Secondly I seek to understand variable trends in shark attacks fatality rate, like the fatality ranking by location. Then I answer what are the most frequent types of injuries? In order to achieve this objective, it is necessary to import pandas, matplotlib.pyplot and seaborn libraries and use dataframe’s manipulation basics like filtering, cleaning and graph analysis.
+▶ The project seeks to understand if there are any variable that correlate with the fatality rate. In order to achieve this objective, it was necessary to import pandas, numpy, matplotlib.pyplot and seaborn libraries and use dataframe’s manipulation basics like filtering, cleaning and graph analysis.
 
 
 ▶ Variables:
