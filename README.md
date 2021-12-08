@@ -1,4 +1,4 @@
-[Project Description](https://)
+# [Project Description](https://)
 
 ▶ The project seeks to understand if there are any variable that correlate with the fatality rate. In order to achieve this objective, it was necessary to import pandas, numpy, matplotlib.pyplot and seaborn libraries and use dataframe’s manipulation basics like filtering, cleaning and graph analysis.
 
